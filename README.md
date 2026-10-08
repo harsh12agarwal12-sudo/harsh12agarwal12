@@ -27,7 +27,7 @@ Learn AI & Data Science
 Contribute to open-source projects
 Keep improving every day
 📫 Connect With Me
-LinkedIn: [Add your LinkedIn profile]
+LinkedIn: www.linkedin.com/in/harsh-aggarwal-634653419
 GitHub: You're already here 😄
 
 ⭐ Learning, building, and improving one project at a time.
